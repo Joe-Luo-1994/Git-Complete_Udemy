@@ -16,3 +16,6 @@ This is introduction testing.
 Try it.
 
 ## How To Contribute
+
+## Copyright
+Created by Joe.
