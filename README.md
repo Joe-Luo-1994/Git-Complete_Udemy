@@ -21,3 +21,6 @@ fork this repository and then issue Pull Requests for review
 
 ## Copyright
 Created by Joe.
+
+## Conflict happens here
+Here is some more conflict
