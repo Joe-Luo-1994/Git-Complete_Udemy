@@ -24,5 +24,5 @@ fork this repository and then issue Pull Requests for review
 ## Copyright
 Created by Joe. All rights reserved.
 
-## Conflict happens here
-Here is some more conflict
+## Stash
+Just some example.
