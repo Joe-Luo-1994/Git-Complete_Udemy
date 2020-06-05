@@ -1,6 +1,6 @@
 # Fresh Project
 
-This is a test project for showing how to use Git and Github together.
+This is a test project for showing how to use Git and Github together. Adding a line for rebasing example.
 
 
 ## Title
