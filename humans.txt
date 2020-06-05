@@ -12,3 +12,5 @@ Another rebase conflict changes
 Update some changes for stashing
 
 Another text for stash example.
+
+Stashing into a branch
