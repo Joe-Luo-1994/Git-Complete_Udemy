@@ -17,5 +17,7 @@ Try it.
 
 ## How To Contribute
 
+fork this repository and then issue Pull Requests for review
+
 ## Copyright
 Created by Joe.
