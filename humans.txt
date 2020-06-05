@@ -9,4 +9,4 @@ Some rebase conflict example
 
 Another rebase conflict changes
 
-Some text for pull with rebase
+Update some changes for stashing
