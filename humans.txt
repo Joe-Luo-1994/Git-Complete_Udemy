@@ -10,3 +10,5 @@ Some rebase conflict example
 Another rebase conflict changes
 
 Update some changes for stashing
+
+Another text for stash example.
