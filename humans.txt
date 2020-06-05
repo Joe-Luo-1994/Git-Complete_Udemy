@@ -5,4 +5,6 @@ j892020 j892020@gmail.com
 
 Some edited text.
 
-Adding changes before rebasing conflicts
+Some rebase conflict example
+
+Another rebase conflict changes
